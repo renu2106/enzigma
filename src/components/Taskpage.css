@@ -1,0 +1,29 @@
+
+.top-toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  .top-toolbar .left-section {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  
+  .top-toolbar .right-section {
+    display: flex;
+    gap: 5px;
+    margin-left: auto; 
+  }
+  
+  
+  .pagination-controls {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 1rem;
+    gap: 1rem;
+  }
+  
